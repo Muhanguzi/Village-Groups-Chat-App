@@ -1,1 +1,1 @@
-# Village_Chat_App
+# A simple village group chat app built on top of RapidSMS
